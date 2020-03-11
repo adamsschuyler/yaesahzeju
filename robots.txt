@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiweifiefi.dogwifhatgang.com/sitemap.xml
